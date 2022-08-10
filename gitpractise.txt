@@ -1,3 +1,4 @@
-Don't be dumb. Get some intrest in learning in GIhub.
+Don't be dumb. Get some intrest in learning GIThub.
+
 
 Adding extra lines in application code and making changes in the application file and all these changes can be seen in local repo  
